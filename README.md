@@ -13,4 +13,7 @@
     https://viblo.asia/s/hoc-kubernetes-qua-vi-du-minh-hoa-OVlYq8xvl8W
 
     4.Tutorial4
-    https://www.youtube.com/watch?v=h4Sl21AKiDg  
+    https://www.youtube.com/watch?v=h4Sl21AKiDg
+
+    5.Tutorial5
+    https://hocchudong.com/huong-dan-cai-dat-prometheus-de-giam-sat-vmware/
